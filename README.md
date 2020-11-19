@@ -1,6 +1,6 @@
 **Student Management System**
 
-![2](https://user-images.githubusercontent.com/52861859/99704062-10465980-2ac2-11eb-93ef-4bc85a746c13.PNG)
+![1](https://user-images.githubusercontent.com/52861859/99704398-88148400-2ac2-11eb-8669-becb059447cd.PNG)
 
 
 The Student Management System is created to keep store of the information of the student.It can be used in educational institutes. A user who has the username and password can only login to management system.
