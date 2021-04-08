@@ -5,7 +5,7 @@
 
 
 
-The Student Management System is created to keep store of the information of the student.It can be used in educational institutes. A user who has the username and password can only login to management system.
+The Student Management System is created to keep store of the information of the student.It can be used in educational institutes. A user who has the username and password can only login to management system. It will store data in files.The data will  be stored by file management used in c
 
 **key features of this project is:**
 1. Add New Records.
